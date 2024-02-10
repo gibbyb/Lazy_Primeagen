@@ -1,5 +1,17 @@
-require("theprimeagen.set")
+require("theprimeagen.lazy")
 require("theprimeagen.remap")
+require("theprimeagen.set")
+require("theprimeagen.colors")
+require("theprimeagen.cloak")
+require("theprimeagen.fugitive")
+require("theprimeagen.harpoon")
+require("theprimeagen.lsp")
+require("theprimeagen.refactoring")
+require("theprimeagen.telescope")
+require("theprimeagen.treesitter")
+require("theprimeagen.trouble")
+require("theprimeagen.undotree")
+require("theprimeagen.zenmode")
 
 -- DO NOT INCLUDE THIS
 vim.opt.rtp:append("~/personal/streamer-tools")

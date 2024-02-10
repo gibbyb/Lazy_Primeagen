@@ -1,5 +1,15 @@
-### ThePrimeagen's init.lua
+### ThePrimeagen's init.lua (Rewritten for Lazy.nvim)
 Prerequisite: install [ripgrep](https://github.com/BurntSushi/ripgrep).
+
+##### The Same Neovim Config, but now with Lazy.nvim!
+
+ThePrimeagen & his config are the reason that I use Neovim. I learned about Neovim by 
+initially copying this config. Now that Packer is deprecated, I wanted to rewrite this 
+config exactly as ThePrimeagen has his own, but using the new and very nice Lazy.nvim.
+
+If you notice any issues, or have any suggestions, feel free to reach out!
+
+I will leave the original README below.
 
 [The full video of me setting up this repo](https://www.youtube.com/watch?v=w7i4amO_zaE)
 
